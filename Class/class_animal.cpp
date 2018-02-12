@@ -34,7 +34,7 @@ int main()
 {
 	/*Creating objects for the classes*/
 	animal		obj;
-	cat			obj1;
+	cat	        obj1;
 	dog 		obj2;
 
 	/*Accessing the classes by using objects */
